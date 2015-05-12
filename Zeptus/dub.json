@@ -1,0 +1,13 @@
+{
+	"name": "zeptus",
+	"description": "Scriptable chat bot made in D for different backends",
+	"copyright": "Copyright © 2015, wildn00b",
+	"authors": ["Dan Printzell"],
+	"license": "MPL-2.0",
+	"dependencies": {
+		"zeptusprotocol": {"path": "../ZeptusProtocol"},
+		"vibe-d": "~>0.7.19",
+		"dirk": "~>0.1.0",
+	},
+	"versions": ["VibeDefaultMain"]
+}

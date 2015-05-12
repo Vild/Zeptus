@@ -1,0 +1,10 @@
+{
+	"name": "zeptusprotocol",
+	"description": "Zeptus protocol between the frontend and the Zeptus server",
+	"copyright": "Copyright © 2015, wildn00b",
+	"authors": ["Dan Printzell"],
+	"license": "MPL-2.0",
+	"targetType": "library",	
+	"dependencies": {
+	}
+}

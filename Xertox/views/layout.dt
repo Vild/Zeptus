@@ -1,0 +1,7 @@
+doctype html
+html
+	head
+		title Xertox
+		meta(charset="UTF-8")
+	body
+		block body

@@ -1,0 +1,12 @@
+{
+	"name": "xertox",
+	"description": "A frontend for controling muliple Zeptus servers",
+	"copyright": "Copyright © 2015, wildn00b",	
+	"authors": ["Dan Printzell"],
+	"license": "MPL-2.0",
+	"dependencies": {
+		"zeptusprotocol": {"path": "../ZeptusProtocol"},
+		"vibe-d": "~>0.7.19"
+	},
+	"versions": ["VibeDefaultMain"]
+}
